@@ -1,0 +1,47 @@
+{
+    "debug": true,
+    "lintScripts": false,
+    "preprocessorLocations": [
+        "/"
+    ],
+    "preprocessorScriptOutput": "js",
+    "preprocessorStyleOutput": "css",
+    "projectName": "directorio",
+    "projectDescription": "Project Description",
+    "publishedId": null,
+    "serverHostname": null,
+    "serverPort": null,
+    "templateDirectory": "templates",
+    "templateDefaultLayout": "layout",
+    "templateDefaultPage": "",
+    "type": "simple",
+    "useCompass": false,
+    "simpleModePartnerServer": "192.168.1.14/www.mako.guru/directorio/directorio3.php",
+    "simpleModeFileTypes": null,
+    "modelSource": null,
+    "domain": null,
+    "convertHtml": {
+        "path": null,
+        "extension": ".html",
+        "ignoreUrls": null,
+        "relativePaths": false,
+        "default": null
+    },
+    "followLeader": true,
+    "routes": null,
+    "customRuby": false,
+    "customRubyPath": null,
+    "remoteDebugPort": 0,
+    "optimiseImages": true,
+    "password": null,
+    "ignoreDir": [
+        "node_modules"
+    ],
+    "customTodos": null,
+    "autoPrefixer": null,
+    "sass": null,
+    "sitemap": false,
+    "less": null,
+    "optimiseSVG": true,
+    "reload": 0
+}

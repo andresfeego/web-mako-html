@@ -1,0 +1,1 @@
+[29-Jun-2017 23:47:44 America/Bogota] PHP Warning:  file_put_contents(logos/L1DA1EFJ .png): failed to open stream: No such file or directory in /home/makoguru/public_html/directorio/logos/export.php on line 17
